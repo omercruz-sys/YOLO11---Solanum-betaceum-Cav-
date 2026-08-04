@@ -15,7 +15,7 @@ Este repositorio contiene:
 El archivo pesado del proyecto se encuentra publicado en Zenodo:
 
 **DOI:** 
-https://doi.org/10.5281/zenodo.21167174
+https://doi.org/10.5281/zenodo.21167173
 
 ## Repositorio
 
